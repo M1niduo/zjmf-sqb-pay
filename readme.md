@@ -2,6 +2,8 @@
 
 > 魔方财务 微信、支付宝、云闪付收款插件。魔方财务码支付
 
+![alt text](6B9E7A0C-B854-4360-8E74-606E66DA23CB.png)
+
 ## 安装教程
 
 1. 把 `sqb_pay` 目录放到 `public/plugins/gateways` 下
