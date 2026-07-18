@@ -236,7 +236,7 @@ HTML;
 
         return [
             'username'             => $config['username'] ?? '',
-            'password'             => $config['password'] ?? '',
+            'password'             => md5($config['password']) ?? '',
             'terminal_sn'          => $config['terminal_sn'] ?? '',
             'qr_code_image'        => $config['qr_code_image'] ?? '',
             'polling_timeout'      => $config['polling_timeout'] ?? 300,
