@@ -2,6 +2,10 @@
 
 > 魔方财务 微信、支付宝、云闪付收款插件。魔方财务码支付
 
+## 免费开通
+
+开通联系微信 `shouqianba764` 备注来源 trexk
+
 ![alt text](6B9E7A0C-B854-4360-8E74-606E66DA23CB.png)
 
 ## 安装教程
@@ -16,9 +20,6 @@
 php /www/wwwroot/127.0.0.1/think sqb_polling
 ```
 
-## 免费开通
-
-开通联系微信 `shouqianba764` 备注来源 trexk
 
 ## 配置说明
 
