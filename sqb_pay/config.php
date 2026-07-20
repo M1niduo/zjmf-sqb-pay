@@ -1,7 +1,7 @@
 <?php
 return [
     'terminal_sn' => [
-        'title' => '终端号',
+        'title' => '设备号',
         'type'  => 'text',
         'value' => '',
         'tip'   => '',
