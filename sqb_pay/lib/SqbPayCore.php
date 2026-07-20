@@ -160,7 +160,7 @@ class SqbPayCore
             'date_start'      => $params['date_start'],
             'date_end'        => $params['date_end'],
             'show_fund_state' => true,
-            'terminal_sn'     => $this->terminal_sn,
+            'device_fingerprint'     => $this->terminal_sn,
         ];
 
         $response = $this->client->post('/api/transaction/findTransactions', [
